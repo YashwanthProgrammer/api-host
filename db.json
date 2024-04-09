@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "4295",
+      "fname": "user1",
+      "lname": "user",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "cbaa",
+      "fname": "yash",
+      "lname": "yash",
+      "password": "12",
+      "confirmPassword": "23"
+    },
+    {
+      "id": "0c88",
+      "fname": "user1",
+      "lname": "user2",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "6f16",
+      "email": "2211cs010607@mallareddyuniversity.ac.in",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "e745",
+      "email": "2211cs010608@mallareddyuniversity.ac.in",
+      "password": "1234",
+      "confirmPassword": "1234"
+    },
+    {
+      "id": "7d3b",
+      "email": "2211cs010203@mallareddyuniversity.ac.in",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "8101",
+      "email": "2211cs010606@mallareddyuniversity.ac.in",
+      "password": "12345",
+      "confirmPassword": "12345"
+    },
+    {
+      "id": "746b",
+      "email": "2211cs010607@mallareddyuniversity.ac.in",
+      "password": "yash",
+      "confirmPassword": "yash"
+    },
+    {
+      "id": "6b4e",
+      "email": "2211cs010541@mallareddyuniversity.ac.in",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": "a0d5",
+      "email": "2211cs010203@mallareddyuniversity.ac.in",
+      "password": "1234",
+      "confirmPassword": "1234"
+    }
+  ]
+}
